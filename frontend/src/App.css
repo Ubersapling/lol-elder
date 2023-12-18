@@ -1,0 +1,12 @@
+
+.bg-dark-purple {
+    background-color: #070720; /* Default color */
+}
+
+.bg-light-purple {
+    background-color: #11112A; /* Default color */
+}
+
+body {
+    color: white
+}
